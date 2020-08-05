@@ -1,9 +1,9 @@
 ## Use terminal to perform the following actions
 
-1. npx create-react-app spotify-clone-app
-2. cd spotify-clone-app
+1. npx create-react-app spotify-clone
+2. cd spotify-clone
 3. git clone https://github.com/james-liao-chen-hung/spotify-clone.git
-4. Copy "./spotify-clone-app/spotify-clone-app" to "./spotify-clone-app"
+4. Copy "./spotify-clone/spotify-clone" to "./spotify-clone"
 5. npm i @material-ui/core
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
